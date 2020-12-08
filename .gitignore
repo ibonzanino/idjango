@@ -1,5 +1,11 @@
 /.vscode/
-/Procfile
 /runtime.txt
 /db.sqlite3
 /.idea/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/mysite.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
